@@ -13,6 +13,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 ### Projeyi cloneladıktan sonra Visual Studio code programında açınız.
 ### Linux için:
 [ornek](cd kodluyoruzilkrepo
+
 code.)
 
 ## Contributing
