@@ -12,7 +12,8 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 ## Usage
 ### Projeyi cloneladıktan sonra Visual Studio code programında açınız.
 ### Linux için:
-[ornek](cd kodluyoruzilkrepocode)
+[ornek](cd kodluyoruzilkrepo
+code.)
 
 ## Contributing
 ### Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
